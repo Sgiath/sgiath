@@ -1,5 +1,3 @@
-# Sgiath
-
 ## Contacts
 
 - web: <a href="https://sgiath.dev">sgiath.dev</a>
