@@ -2,7 +2,9 @@
 
 - web: <a href="https://sgiath.dev">sgiath.dev</a>
 - email: <a href="mailto:sgiath@sgiath.dev">sgiath@sgiath.dev</a>
-- fediverse: <a rel="me" href="https://mastodon.sgiath.dev/@sgiath">@sgiath@sgiath.dev</a>
+- Nostr:
+  - `0000002855ad7906a7568bf4d971d82056994aa67af3cf0048a825415ac90672`
+  - `npub1qqqqq2z444usdf6k306djuwcyptfjj4x0teu7qzg4qj5zkkfqeeq3hlwh5`
 - matrix: `@sgiath:sgiath.dev`
 - libera (IRC): `sgiath`
 - XPMM: `sgiath@sgiath.dev`
