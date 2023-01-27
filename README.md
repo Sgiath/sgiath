@@ -4,7 +4,7 @@
 - email: <a href="mailto:sgiath@sgiath.dev">sgiath@sgiath.dev</a>
 - Nostr:
   - `0000002855ad7906a7568bf4d971d82056994aa67af3cf0048a825415ac90672`
-  - `npub1qqqqq2z444usdf6k306djuwcyptfjj4x0teu7qzg4qj5zkkfqeeq3hlwh5`
+  - [`npub1qqqqq2z444usdf6k306djuwcyptfjj4x0teu7qzg4qj5zkkfqeeq3hlwh5`](nostr:npub1qqqqq2z444usdf6k306djuwcyptfjj4x0teu7qzg4qj5zkkfqeeq3hlwh5)
 - matrix: `@sgiath:sgiath.dev`
 - libera (IRC): `sgiath`
 - XPMM: `sgiath@sgiath.dev`
