@@ -1,3 +1,16 @@
+My niche is reimplementing privacy-oriented projects and specifications
+in Elixir and never finishing them. So far, I have done the following:
+
+- Bitcoin secp256k1 wrapper
+- Noise protocol
+- Nostr protocol
+- Reticulum
+
+And I would like to get someday to implement those in Elixir:
+
+- Full Bitcoin network stack
+- Full Lightning network
+
 ## Contacts
 
 - web: <a href="https://sgiath.dev">sgiath.dev</a>
